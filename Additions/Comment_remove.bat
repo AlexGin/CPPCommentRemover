@@ -1,0 +1,1 @@
+CPPCommentRemover.exe E:\InputFile.cpp E:\OutputFile.cpp
